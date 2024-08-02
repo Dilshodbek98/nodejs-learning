@@ -1,0 +1,19 @@
+{
+  "name": "my-math-library1",
+  "version": "1.1.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "plus",
+    "minus",
+    "math"
+  ],
+  "author": "Dilshodbek Boymamatov",
+  "license": "ISC",
+  "description": "for learning",
+  "dependencies": {
+    "my-math-library1": "^1.1.0"
+  }
+}
